@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    color: #fff;
+}
+
+body {
+    min-height: 100vh;
+    background-color: dodgerblue;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  padding: 1rem 0.5rem;
+}
+
+section {
+    width: 100%;
+    max-width: 420px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.dashboard {
+    max-width: 820px;
+    min-height: 500px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    padding-bottom: 1rem;
+}
+
+a, a:visited {
+    color: #fff;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+button,
+select,
+textarea {
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+.add-building-form label {
+    display: flex;
+    justify-content: space-between;
+    min-width: 450px;  
+}
+
+.add-building-form label input {
+    display: flex;
+    justify-content: space-between;
+    max-width: 170px;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+label,
+button {
+  margin-top: 1rem;
+  min-width: 100px;
+}
+
+.add-button {
+    margin-bottom: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+}
+
+button {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0px -3px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.instructions {
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background: #000;
+    color: #fff;
+    padding: 0.25rem;
+    position: relative;
+    bottom: -10px;
+}
+
+.instructions > svg {
+    margin-right: 0.25rem;
+}
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+
+.hide {
+    display: none;
+}
+
+.valid {
+    color: limegreen;
+    margin-left: 0.25rem;
+}
+
+.invalid {
+    color: red;
+    margin-left: 0.25rem;
+}
+
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+}
+
+.line {
+    display: inline-block;
+}
+
+.buildings-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);  
+}
+
+.grid-header {
+    display: contents; 
+    font-weight: bold; 
+    background-color: #f0f0f0; 
+    padding: 10px;
+}
+
+.grid-row {
+    border: 1px black;
+    display: contents; 
+}
+
+.grid-buttons {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+
+.grid-buttons button {
+    margin-top: 0 !important;
+    margin-right: .5rem;
+}
+
+.grid-row div, .grid-header div {
+    padding: 10px;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.grid-header div:last-child {
+    display: flex;
+    justify-content: center !important;
+}
+
+.delete-button {
+    background-color: #ec3636;
+}
+
+
+
