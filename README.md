@@ -45,9 +45,9 @@ This project is a **Building Management System** built with **React**, **ASP.NET
    git clone https://github.com/hbasrik/AdminPanel
 
 
-![1](https://github.com/user-attachments/assets/955b0863-d6b0-40b8-b6bd-8e2559064c29)
-![2](https://github.com/user-attachments/assets/8c6c1de1-a387-41b9-a238-0d914a21e624)
-![6](https://github.com/user-attachments/assets/1fd1af4f-2b03-48c6-a374-65cfb4c89a8e)
-![3](https://github.com/user-attachments/assets/1949cce2-e100-457d-84d1-33308ed860b8)
-![4](https://github.com/user-attachments/assets/f13bd53d-3c09-441a-a3cc-019b0d023a86)
-![5](https://github.com/user-attachments/assets/beadd5c1-9979-4590-98b7-f9dd796547c8)
+https://github.com/user-attachments/assets/955b0863-d6b0-40b8-b6bd-8e2559064c29
+https://github.com/user-attachments/assets/8c6c1de1-a387-41b9-a238-0d914a21e624
+https://github.com/user-attachments/assets/1fd1af4f-2b03-48c6-a374-65cfb4c89a8e
+https://github.com/user-attachments/assets/1949cce2-e100-457d-84d1-33308ed860b8
+https://github.com/user-attachments/assets/f13bd53d-3c09-441a-a3cc-019b0d023a86
+https://github.com/user-attachments/assets/beadd5c1-9979-4590-98b7-f9dd796547c8
