@@ -37,6 +37,7 @@ This project is a **Building Management System** built with **React**, **ASP.NET
    dotnet run
    
 3.Navigate to the /frontend folder.
+   ```bash
   npm install 
   npm start
 
