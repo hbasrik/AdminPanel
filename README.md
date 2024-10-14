@@ -2,15 +2,6 @@ Building Management Web Application
 
 This project is a **Building Management System** built with **React**, **ASP.NET Core**, and **MongoDB**. The application allows users to register, log in, manage a list of buildings, and perform CRUD operations (Create, Read, Update, Delete) on building data.
 
-
-![1](https://github.com/user-attachments/assets/955b0863-d6b0-40b8-b6bd-8e2559064c29)
-![2](https://github.com/user-attachments/assets/35bc5544-89ca-4407-9c00-6b497f5f51b9)
-![6](https://github.com/user-attachments/assets/42ae79a8-4634-4b01-a49d-42378a3bb83a)
-![3](https://github.com/user-attachments/assets/c44b0bf6-94bf-4890-8b56-66ac9685eb3d)
-![4](https://github.com/user-attachments/assets/ec737eab-3742-4af1-8420-fc44177c3250)
-![5](https://github.com/user-attachments/assets/f08e2c79-0cb5-42bb-a534-cbaf35d1af3f)
-
-
 ## Features
 - User registration and login with JWT-based authentication.
 - Manage a list of buildings with options to:
@@ -37,6 +28,8 @@ This project is a **Building Management System** built with **React**, **ASP.NET
 - .NET Core SDK (for ASP.NET Core backend)
 - A code editor like Visual Studio Code or Visual Studio
 
+
+
 - ### Installation
 
 1. Navigate to the `/backend` folder.
@@ -45,13 +38,25 @@ This project is a **Building Management System** built with **React**, **ASP.NET
    dotnet restore
    dotnet run
    
-3.Navigate to the /frontend folder.
+3.Navigate to the `/frontend` folder.
+ - Restore packages:
    ```bash
-  npm install 
-  npm start
+   npm install
+   npm start
+   
 
-# Clone the Repository
-   git clone https://github.com/hbasrik/AdminPanel
+
+- ### Demo Screenshots
+![1](https://github.com/user-attachments/assets/0f14ee87-2d02-486a-b538-ef66375bef63)
+![2](https://github.com/user-attachments/assets/44303e7f-691e-4a2d-8ce8-2d140a546267)
+![3](https://github.com/user-attachments/assets/d9bc6361-7f00-4ce0-a73d-0b71d2d78cc7)
+![4](https://github.com/user-attachments/assets/1488e61b-8b26-459c-8645-bd80622d8a28)
+![5](https://github.com/user-attachments/assets/21a29350-7a3a-42ca-85eb-c78c61716d23)
+![6](https://github.com/user-attachments/assets/66e2e43d-0b80-42bf-9b27-837c436e7744)
+
+
+
+
 
 
 
