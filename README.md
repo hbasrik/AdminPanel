@@ -2,12 +2,14 @@ Building Management Web Application
 
 This project is a **Building Management System** built with **React**, **ASP.NET Core**, and **MongoDB**. The application allows users to register, log in, manage a list of buildings, and perform CRUD operations (Create, Read, Update, Delete) on building data.
 
-https://github.com/user-attachments/assets/955b0863-d6b0-40b8-b6bd-8e2559064c29
-https://github.com/user-attachments/assets/8c6c1de1-a387-41b9-a238-0d914a21e624
-https://github.com/user-attachments/assets/1fd1af4f-2b03-48c6-a374-65cfb4c89a8e
-https://github.com/user-attachments/assets/1949cce2-e100-457d-84d1-33308ed860b8
-https://github.com/user-attachments/assets/f13bd53d-3c09-441a-a3cc-019b0d023a86
-https://github.com/user-attachments/assets/beadd5c1-9979-4590-98b7-f9dd796547c8
+
+![1](https://github.com/user-attachments/assets/955b0863-d6b0-40b8-b6bd-8e2559064c29)
+![2](https://github.com/user-attachments/assets/35bc5544-89ca-4407-9c00-6b497f5f51b9)
+![6](https://github.com/user-attachments/assets/42ae79a8-4634-4b01-a49d-42378a3bb83a)
+![3](https://github.com/user-attachments/assets/c44b0bf6-94bf-4890-8b56-66ac9685eb3d)
+![4](https://github.com/user-attachments/assets/ec737eab-3742-4af1-8420-fc44177c3250)
+![5](https://github.com/user-attachments/assets/f08e2c79-0cb5-42bb-a534-cbaf35d1af3f)
+
 
 ## Features
 - User registration and login with JWT-based authentication.
@@ -50,6 +52,10 @@ https://github.com/user-attachments/assets/beadd5c1-9979-4590-98b7-f9dd796547c8
 
 # Clone the Repository
    git clone https://github.com/hbasrik/AdminPanel
+
+
+
+
 
 
 
