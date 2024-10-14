@@ -34,10 +34,11 @@ This project is a **Building Management System** built with **React**, **ASP.NET
 2. Restore packages:
    ```bash
    dotnet restore
-- dotnet run
+   dotnet run
+   
 3.Navigate to the /frontend folder.
-- npm install
-- npm start
+  npm install 
+  npm start
 
 # Clone the Repository
-git clone https://github.com/hbasrik/AdminPanel
+   git clone https://github.com/hbasrik/AdminPanel
