@@ -21,15 +21,6 @@ This project is a **Building Management System** built with **React**, **ASP.NET
 - **Authentication**: JWT (JSON Web Token)
 - **UI Icons**: FontAwesome Icons
 
-## Getting Started
-- ### Prerequisites
-- Node.js (for frontend)
-- MongoDB (for backend database)
-- .NET Core SDK (for ASP.NET Core backend)
-- A code editor like Visual Studio Code or Visual Studio
-
-
-
 - ### Installation
 
 1. Navigate to the `/backend` folder.
